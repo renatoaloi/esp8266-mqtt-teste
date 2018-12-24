@@ -11,8 +11,8 @@
 const char* BROKER_MQTT = "192.168.15.16"; 
 int BROKER_PORT = 1883;
 
-const char* ssid = "ALOI92";
-const char* password = "02052014";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 
 ESP8266WebServer server(80);
 WiFiClient espClient;
